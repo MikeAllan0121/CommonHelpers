@@ -8,6 +8,7 @@
     <Title>CommonHelpers</Title>
     <Description>Common short code that I use across all projects. Extension methods mostly.</Description>
     <Authors>Mike Allan</Authors>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
 </Project>
