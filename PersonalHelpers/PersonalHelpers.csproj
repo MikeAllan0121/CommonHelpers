@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>CommonHelpers</Title>
+    <Description>Common short code that I use across all projects. Extension methods mostly.</Description>
+    <Authors>Mike Allan</Authors>
+  </PropertyGroup>
+
+</Project>
